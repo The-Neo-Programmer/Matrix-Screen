@@ -1,1 +1,1 @@
-Pygame   [pip install pygame]
+pygame
